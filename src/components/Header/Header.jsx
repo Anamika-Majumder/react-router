@@ -12,6 +12,7 @@ const Header = () => {
                 <span>My Website</span>
             <Link to="/Home" >Home</Link>
            <Link to="/About">About</Link>
+           <Link to="/User">User</Link>
        <Link to="/Contact">Contect</Link>
             <Outlet> </Outlet>
             <Footer></Footer>
